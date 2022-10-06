@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmeriKiwiVentures
-- 👀 I’m interested in ...building the coding skills to leave finance.
-- 🌱 I’m currently learning ...Python basics
+- 👀 I’m interested in ...building a professional developer skillset to leave the finance industry.
+- 🌱 I’m currently learning ...all things Python from the ground up.
 - 💞️ I’m looking to collaborate on ...App Building or any Python basics I can do to help others.
 - 📫 How to reach me ...MNDFINEART@GMAIL.COM
 
